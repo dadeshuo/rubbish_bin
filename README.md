@@ -1,2 +1,2 @@
 # rubbish_bin
-just some rubbish
+just some rubbish in GIONEE
